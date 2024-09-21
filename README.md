@@ -12,7 +12,7 @@
     padding: 0;">
     <div style="margin-top: 70px;">
         <b><h1 style="font-size: 50px;">Burger King®</h1></b>    
-            <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI_YVhoJWuC6IcxjQL5tcMmuJgCxFeioLBaAQLgIof5C2xfoqN" 
+            <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI_YVhoJWuC6IcxjQL5tcMmuJgCxFeioLBaAQLgIof5C2xfoqN"; 
             style="position: relative; 
             top: 20px; 
             display: block; 
