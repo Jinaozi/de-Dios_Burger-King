@@ -27,6 +27,3 @@
     <footer style="margin-top: 50px; font-size: 15px;">
         All content © 1997 Burger King Corporation
     </footer>
-
-</body>
-</html>
