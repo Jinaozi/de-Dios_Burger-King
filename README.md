@@ -13,7 +13,7 @@
             display: block; 
             margin: 0 auto;" 
             width="350"; 
-            height="300">
+            height="300"/>
         </div>
         <b><p style="font-size: 40px; margin: 30px 0;">Get your burger's worth.™</p></b>
         <b></b><p style="font-size: 20px; font-weight: bold;">
