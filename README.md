@@ -6,7 +6,7 @@
 </head>
 <body style="background-color: black; 
     color: white; 
-    font-family: 'Times New Roman', serif; 
+    font-family: times New Roman, serif; 
     text-align: center; 
     margin: 0; 
     padding: 0;">
