@@ -4,7 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burger King</title>
 </head>
-<body style="background-color: black; color: white; font-family: Georgia, serif; text-align: center; margin: 0; padding: 0;">
+<body style="background-color: black; color: white; 
+    font-family: Georgia;
+    font-weight: bold;
+    text-align: center; 
+    margin: 0; 
+    padding: 0;">
     <div align="center" style="margin-top: 100px;">
         <h1 style="font-size: 50px;">Burger King®</h1>
                 <td align="center" valign="middle">
