@@ -12,9 +12,8 @@
     padding: 0;">
     <div style="margin-top: 70px;">
         <b><h1 style="font-size: 50px;"> Burger King® </h1></b>
-            <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpeg"
-            width="350"; height="300">
-        <img src="https://assets.sutori.com/user-uploads/image/5596550e-419b-43f0-9c75-06cca169e8f4/d916f4d438a3b6f45969addb8a869b3e.jpeg"/>
+            <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg"
+            width="350"; height="300"/>
         </div>
         <b><p style="font-size: 40px; margin: 30px 0;">Get your burger's worth.™</p></b>
         <b></b><p style="font-size: 20px; font-weight: bold;">
