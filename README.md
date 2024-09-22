@@ -17,7 +17,7 @@
                 </td>
         <p style="style="font-family: Georgia; font-weight: bold; font-size: 40px;">Get your burger's worth.™</p>
         <p>
-           <a href="#" style="style="font-family: Georgia; font-weight: bold; color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
+           <a href="#" style="font-weight: bold; color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
         </p>
     </div>
     <div align="center" style="margin-top: 50px; font-size: 15px;">
