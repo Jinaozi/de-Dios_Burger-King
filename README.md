@@ -4,7 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burger King</title>
 </head>
-<body style="background-color: black; color: white; font-family: 'Times New Roman', serif; text-align: center; margin: 0; padding: 0;">
+<body style="background-color: black; color: white; 
+    font-family: '"Times New Roman", Times, serif;
+    text-align: center; 
+    margin: 0; 
+    padding: 0;">
     <div align="center" style="margin-top: 100px;">
         <h1 style="font-size: 50px;">Burger King®</h1>
             <tr>
@@ -14,7 +18,7 @@
             </tr>
         <p style="font-size: 40px;">Get your burger's worth.™</p>
         <p>
-            <a href="#" style="font-weight: bold;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
+           <a href="#" style="color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
         </p>
     </div>
     <div align="center" style="margin-top: 50px; font-size: 15px;">
