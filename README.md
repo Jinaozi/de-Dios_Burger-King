@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,3 +25,6 @@
     <footer style="margin-top: 50px; font-size: 15px;">
         All content © 1997 Burger King Corporation
     </footer>
+
+</body>
+</html>
