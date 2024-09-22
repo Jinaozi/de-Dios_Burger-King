@@ -5,7 +5,7 @@
     <title>Burger King</title>
 </head>
 <body style="background-color: black; color: white; 
-    font-family: Georgia;
+    font-family: Monospace, Georgia;
     font-weight: bold;
     text-align: center; 
     margin: 0; 
