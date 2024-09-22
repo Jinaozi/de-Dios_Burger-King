@@ -10,14 +10,14 @@
     text-align: center; 
     margin: 0; 
     padding: 0;">
-    <div align="center" style="margin-top: 100px;">
+    <div align="center" style="margin-top: 70px;">
         <h1 style="font-family: Georgia; font-weight: bold; font-size: 50px;">Burger King®</h1>
                 <td align="center" valign="middle">
                     <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg" alt="Whopper" width="350"  height="300">
                 </td>
-        <p style="style="font-family: Georgia; font-weight: bold; font-size: 40px;">Get your burger's worth.™</p>
+        <p style="font-family: Georgia; font-weight: bold; font-size: 40px;"> Get your burger's worth.™</p>
         <p>
-           <a href="#" style="font-weight: bold; color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
+           <a href="#" style="color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
         </p>
     </div>
     <div align="center" style="margin-top: 50px; font-size: 15px;">
