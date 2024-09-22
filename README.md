@@ -11,7 +11,6 @@
     padding: 0;">
     <div align="center" style="margin-top: 100px;">
         <h1 style="font-size: 50px;">Burger King®</h1>
-            <tr>
                 <td align="center" valign="middle">
                     <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg" alt="Whopper" width="350"  height="300">
                 </td>
