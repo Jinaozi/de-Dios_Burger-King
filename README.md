@@ -5,10 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burger King</title>
 </head>
-<body bgcolor="black" text="white" style="font-family: Times New Roman, serif;" link="white" alink="white" vlink="white">
+<body bgcolor="black" text="white" style="font-family: Times New Roman, serif;" text-align: center; margin: 0; padding: 0;">
     <div align="center" style="margin-top: 100px;">
         <h1 style="font-size: 50px;">Burger King®</h1>
-        <table bgcolor="red" width="300" height="200" cellspacing="0" cellpadding="0">
             <tr>
                 <td align="center" valign="middle">
                     <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg" alt="Whopper" width="350"  height="300">
