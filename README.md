@@ -12,11 +12,10 @@
     padding: 0;">
     <div style="margin-top: 70px;">
         <b><h1 style="font-size: 50px;"> Burger King® </h1></b>
-            <center><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI_YVhoJWuC6IcxjQL5tcMmuJgCxFeioLBaAQLgIof5C2xfoqN" 
-            alt="Whopper" 
+            <center><img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg"
+            alt="Whopper"; 
             width="350"; 
             height="300"/>
-        </div>
         <b><p style="font-size: 40px; margin: 30px 0;">Get your burger's worth.™</p></b>
         <b></b><p style="font-size: 20px; font-weight: bold;">
             <a href="#" style="color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
