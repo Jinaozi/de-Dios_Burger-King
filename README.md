@@ -12,7 +12,6 @@
                     <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg" alt="Whopper" width="350"  height="300">
                 </td>
             </tr>
-        </table>
         <p style="font-size: 40px;">Get your burger's worth.™</p>
         <p>
             <a href="#" style="font-weight: bold;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
