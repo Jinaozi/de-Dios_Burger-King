@@ -1,28 +1,28 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burger King</title>
 </head>
-<body style="background-color: black; 
-    color: white; 
-    font-family: Palatino, serif; 
-    text-align: center; 
-    margin: 0; 
-    padding: 0;">
-    <div style="margin-top: 70px;">
-        <b><h1 style="font-size: 50px;"> Burger King® </h1></b>
-            <center><img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg"
-            alt="Whopper"; 
-            width="350"; 
-            height="300"/>
-        <b><p style="font-size: 40px; margin: 30px 0;">Get your burger's worth.™</p></b>
-        <b></b><p style="font-size: 20px; font-weight: bold;">
-            <a href="#" style="color: white; text-decoration: none;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
+<body bgcolor="black" text="white" style="font-family: Times New Roman, serif;" link="white" alink="white" vlink="white">
+    <div align="center" style="margin-top: 100px;">
+        <h1 style="font-size: 50px;">Burger King®</h1>
+        <table bgcolor="red" width="300" height="200" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="center" valign="middle">
+                    <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg" alt="Whopper" width="350"  height="300">
+                </td>
+            </tr>
+        </table>
+        <p style="font-size: 40px;">Get your burger's worth.™</p>
+        <p>
+            <a href="#" style="font-weight: bold;">Please click on the WHOPPER® to enter the Official Site of Burger King Corporation.</a>
         </p>
-    <footer style="margin-top: 50px; font-size: 15px;">
+    </div>
+    <div align="center" style="margin-top: 50px; font-size: 15px;">
         All content © 1997 Burger King Corporation
-    </footer>
+    </div>
 
 </body>
 </html>
