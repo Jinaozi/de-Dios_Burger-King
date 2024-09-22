@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
 <body style="background-color: black; color: white; font-family: 'Times New Roman', serif; text-align: center; margin: 0; padding: 0;">
     <div style="margin-top: 70px;">
         <b><h1 style="font-size: 50px;">Burger King®</h1></b>
-            <img src= "https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg"
+            <img src="https://fastly.4sqi.net/img/general/600x600/92919313_sYE63xn0idJevU5i2ZLSpMFMRtb3UU9NZPcJtr0dgTM.jpg"
             style="position: relative; 
             top: 20px; 
             display: block; 
