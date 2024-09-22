@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Burger King</title>
 </head>
-<body bgcolor="black" text="white" style="font-family: Times New Roman, serif;" text-align: center; margin: 0; padding: 0;">
+<body style="background-color: black; color: white; font-family: 'Times New Roman', serif; text-align: center; margin: 0; padding: 0;">
     <div align="center" style="margin-top: 100px;">
         <h1 style="font-size: 50px;">Burger King®</h1>
             <tr>
@@ -23,5 +22,4 @@
         All content © 1997 Burger King Corporation
     </div>
 
-</body>
 </html>
