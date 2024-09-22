@@ -11,7 +11,7 @@
             style="position: relative; 
             top: 20px; 
             display: block; 
-            margin: 0 auto;" 
+            margin: 0 auto; 
             width="350"; 
             height="300"/>
         </div>
